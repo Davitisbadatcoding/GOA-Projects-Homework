@@ -2,7 +2,6 @@
 #outputi aris informacia romelic kompiuteri gadmogvcems
 #magalitad printershi shagvqvs informaci ra unda davbechdot (input), da gamodis dabechdili purceli (output)
 
-
 test = input("Input something ")
 print(type(test))
 print(test)
