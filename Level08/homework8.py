@@ -73,3 +73,5 @@ height = int(input("Height (preferably in Cm) "))
 weight = int(input("Weight (preferably in kg) "))
 
 print( "My name is" + " " + name + " " + "and my last name is" + " " + last_name + "." + " " + "I am currently" + " " + str(age) + " " + "years old" + ", " + "my height is" + " " + str(height) + " " + "centimeters" + " " + "and i weigh" + " " + str(weight) + " " + "kilos" + ".")
+
+########################################################################################################
