@@ -47,7 +47,7 @@ four = input("Input a A random word ")
 five = input("Input your name ")
 print("There's a Desert called" + " " + one + ", " + "and for some reason the user inputed the.." + " " + two + ", " + "His/Her favorite car is the" + " " + three + ". " + "And his/her random word is.. (Drum roll)" + " " + four + ", " + "we should probably stop using his/her so his/her name is... (More drum roll?)" + " " + five + "."  )
 
-Anumber1 = int(input("Input a number (Why do we have to use so many number.... im running out of names for my variables) "))
+Anumber1 = int(input("Input a number (Why do we have to use so many numbers.... im running out of names for my variables) "))
 Anumber2 = int(input("Input another number "))
 Anumber3 = int(input("Input a number..... "))
 Anumber4 = int(input("Input another number... "))
