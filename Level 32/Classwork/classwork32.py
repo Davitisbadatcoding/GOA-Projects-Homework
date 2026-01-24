@@ -31,4 +31,9 @@ for i in range(5):
     num = int(input("Input a number to index "))
     numbers.append(num)
 
+<<<<<<< HEAD
 print(numbers)
+=======
+print(numbers)
+>>>>>>> 843cf7650d7cf6b3c50817018d38e064f545ac5a
+
