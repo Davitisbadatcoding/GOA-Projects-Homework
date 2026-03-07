@@ -1,0 +1,47 @@
+#p1 {
+    text-align: left;
+    color: brown;
+    background-color: darkblue;
+    font-size: 20px;
+    text-decoration: overline;
+}
+
+#p2 {
+    text-align: left;
+    color: chartreuse;
+    background-color: cyan;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#p3 {
+    text-align: right;
+    color: cornsilk;
+    background-color: darksalmon;
+    font-size: 100px;
+    text-decoration: wavy;
+}
+
+#p4 {
+    text-align: right;
+    color: firebrick;
+    background-color: gold;
+    font-size: 2px;
+    text-decoration: overline;
+}
+
+#p5 {
+    text-align: center;
+    color: greenyellow;
+    background-color: fuchsia;
+    font-size: 599px;
+    text-decoration: double;
+}
+
+#p6 {
+    text-align: center;
+    color: khaki;
+    background-color: chocolate;
+    font-size: 700px;
+    text-decoration: line-through;
+}

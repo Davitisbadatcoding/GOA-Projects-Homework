@@ -1,0 +1,52 @@
+button {
+    color: white;
+    background-color: black;
+}
+
+.btn {
+    background-color: blue;
+    color: yellow;
+}
+
+#a {
+    background-color: red;
+    color: white;
+}
+#title {
+    color: darkblue;
+    text-align: center;
+}
+
+.text {
+    color: gray;
+    font-size: 18px;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+}
+body {
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+#main-title {
+    color: darkred;
+    text-align: center;
+}
+
+.info {
+    font-size: 18px;
+    color: black;
+}
+
+.dot-btn {
+    background-color: blue;
+    color: white;
+}
+
+#Bosniabutton{
+    background-color: red;
+    color: white;
+}
