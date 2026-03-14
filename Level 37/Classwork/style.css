@@ -1,0 +1,21 @@
+.h1class {
+    color: blue;
+    background-color: brown;
+}
+
+#h1id {
+    color: darkorange;
+    background-color: black;
+}
+
+.div1 {
+    color: darksalmon;
+}
+
+#div2 {
+    color: cyan;
+}
+
+div {
+    color: hotpink;
+}

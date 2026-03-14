@@ -1,0 +1,24 @@
+#p1 {
+    text-decoration: underline;
+}
+
+#p2 {
+    text-transform: uppercase;
+}
+
+#p3 {
+    text-shadow: 2px 2px 5px red;
+}
+
+#title {
+    text-transform: lowercase;
+    text-decoration: underline wavy pink;
+    text-shadow: 5px 5px 10px purple;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
+#fonts {
+    font-family: "Gravitas One", cursive;
+    font-size: large;
+}

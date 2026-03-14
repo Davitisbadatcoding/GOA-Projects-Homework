@@ -1,0 +1,16 @@
+/* psuedo class aris keyword-i romelic unda hqondes win ":", aris hover, visited, link da active */
+#onesheep:hover {
+    color: aqua;
+}
+
+#twosheep:active{
+    color: red;
+}
+
+#threesheep:link{
+    color: blueviolet;
+}
+
+#foursheep:visited{
+    color: coral;
+}
