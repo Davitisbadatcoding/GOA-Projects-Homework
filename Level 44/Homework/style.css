@@ -1,0 +1,15 @@
+.Fox:link {
+    color: red;
+}
+
+.Fox:visited {
+    color: blue;
+}
+
+.Fox:hover {
+    color: green;
+}
+
+.Fox:active {
+    color: pink;
+}  

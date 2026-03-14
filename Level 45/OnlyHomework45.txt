@@ -1,0 +1,58 @@
+1)
+def square_or_square_root(arr):
+    result = []
+    
+    for num in arr:
+        root = int(num ** 0.5)
+        
+        if root * root == num:
+            result.append(root)
+        else:
+            result.append(num * num)
+    return result
+
+2)
+def sum_mix(arr):
+    total = 0
+    for i in arr:
+        total += int(i)
+    return total
+
+3)
+def logical_calc(array, op):
+    result = array[0]
+    
+    for value in array[1:]:
+        if op == "AND":
+            result = result and value
+        elif op == "OR":
+            result = result or value
+        elif op == "XOR":
+            result = result ^ value
+    return result
+
+4)
+def calculator(x, y, op):
+    if type(x) != int and type(x) != float:
+        return "unknown value"
+    if type(y) != int and type(y) != float:
+        return "unknown value"
+    if op == "-":
+        return x - y
+    elif op == "+":
+        return x + y
+    elif op == "*":
+        return x * y
+    elif op == "/":
+        return x / y
+    
+    return "unknown value"
+
+5)
+def count_sheep(n):
+    text = ""
+    
+    for i in range(n):
+        text += str(i + 1) + " sheep..."
+        
+    return text
