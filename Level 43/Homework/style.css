@@ -1,0 +1,68 @@
+#title {
+    text-align: center;
+    font-size: 40px;
+}
+
+#foriin {
+    color: rgba(255, 255, 0, 0.75);
+}
+
+.litten {
+    font-size: large;
+}
+
+h2 #George1 {
+    color: aqua;
+}
+
+h2 #youwillnothavethedrink {
+    color: aqua;
+}
+
+h2 #Merc11 {
+    color: #35d8d8;
+}
+
+h2 #China22 {
+    color: crimson;
+}
+
+#nav1 {
+    color: coral;
+}
+
+#nav1:hover {
+    color: rgb(255, 217, 122);
+}
+
+#soc1 {
+    color: yellow;
+}
+
+#soc2 {
+    color: red;
+}
+
+#nav2 {
+    color: rgb(255, 83, 80);
+}
+
+#nav2:hover {
+    color: rgb(255, 137, 122);
+}
+
+.navagation {
+    color: rgb(182, 100, 237);
+}
+
+.navagation:hover {
+    color: rgb(125, 100, 237);
+}
+
+#foot {
+    background-color: black;
+}
+
+#face {
+    color: lemonchiffon;
+}
