@@ -1,0 +1,58 @@
+/* css reset aris css-is wsebi romelic exmareba html-is elementebis chagdeba
+border sizing gvexmareba rom zustad elementis borderit daiwyos websaitze da ara padding-it da margain-it */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    border: 2px solid red;
+    padding: 30px;
+    margin: 40px;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 1px;
+}
+
+#p1 {
+    border: 2px solid black;
+    width: 280px;
+}
+
+#p2 {
+    background-color: chartreuse;
+    border: 2px solid green;
+    padding: 0;
+    margin-bottom: 60px;
+}
+
+#p3 {
+    border: 2px solid black;
+    width: 200px;
+    padding: 50px;
+    background-color: lightgray;
+}
+
+#p4 {
+    width: 100px;
+    font-size: medium;
+    text-align: center;
+    padding: 10px;
+}
+
+#p5 {
+    border: 2px solid black;
+    width: 300px;
+    padding: 50px;
+    background-color: grey;
+}
+
+
+#p6 {
+    border: 2px solid black;
+    width: 400px;
+    padding: 50px;
+    background-color: rgb(103, 103, 103);
+}

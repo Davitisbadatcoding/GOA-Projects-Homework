@@ -1,0 +1,43 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.inside {
+    list-style-position: outside;
+    background-color: rgb(215, 215, 215);
+    width: 300px;
+    border: 2px solid white;
+}
+
+#div1 li::marker{
+    color: aqua;
+    font-weight: bold;
+}
+
+#inside2 {
+    background-color: rgb(241, 241, 241);
+}
+
+.outside {
+    list-style-position: inside;
+    background-color: rgb(215, 215, 215);
+    width: 300px;
+    border: 2px solid white;
+    list-style-type: none;
+    text-align: left;
+}
+
+b {
+    color: aqua;
+}
+
+#message {
+    text-align: center;
+    background-color: rgb(86, 43, 226);
+    border-radius: 7px;
+    width: 500px;
+}
+
+#b1 {
+    color: white;
+}
