@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#div1 {
+    background-color: darkblue;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.div2 {
+    margin-top: 40px;
+    background-color: yellow;
+    width: 130px;
+    height: 70px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.div2 b {
+    font-size: 45px;
+}
