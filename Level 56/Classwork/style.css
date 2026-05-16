@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#div1 {
+    background-color: rgb(188, 54, 79);
+    height: 600px;
+    width: 600px;
+    display: flex;
+}
+
+#div2 {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
+#div3 {
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    align-self: flex-end;
+}
+
+#div4{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}

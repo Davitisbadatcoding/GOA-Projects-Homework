@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#main1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div1 {
+    width: 80%;
+    grid-template-rows: 100px 250px 100px;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-areas: 
+        "header header"
+        "aside content"
+        "footer footer"
+    ;
+}
+
+#Header1 {
+    grid-area: header;
+    border: 3px rgb(57, 114, 205) solid;
+    border-radius: 20px;
+}
+
+#Aside1 {
+    grid-area: aside;
+    border: 3px rgb(57, 114, 205) solid;
+    border-radius: 20px;
+}
+
+#Content1 {
+    grid-area: content;
+    border: 3px rgb(57, 114, 205) solid;
+    border-radius: 20px;
+}
+
+#Footer1 {
+    grid-area: footer;
+    border: 3px rgb(57, 114, 205) solid;
+    border-radius: 20px;
+}

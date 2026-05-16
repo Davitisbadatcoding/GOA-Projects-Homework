@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#div1 {
+    background-image: url("https://itsfoss.com/content/images/wordpress/2018/05/ubuntu-18.10-default-wallpaper-800x450.jpg");
+    height: 500px;
+    width: 500px;
+}
+
+#div2 {
+    background-image: url("https://itsfoss.com/content/images/wordpress/2021/05/ubuntu-19-10-wallpaper-800x450.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+#div3 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezi6j-e_XsHOGC2Gqiv1M3S4tn7amKZBEQA&s");
+    height: 300px;
+    width: 400px;
+    margin-left: 500px;
+}

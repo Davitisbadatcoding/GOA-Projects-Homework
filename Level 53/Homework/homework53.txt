@@ -1,0 +1,44 @@
+1)
+def add_length(str_):
+    wrds = str_.split()
+    result = []
+    
+    for i in wrds:
+        result.append(i + " " + str(len(i)))
+    
+    return result
+
+2)
+def invert(lst):
+    result = []
+    
+    for i in lst:
+        result.append(-i)
+        
+    return result
+
+3)
+def divisible_by(numbers, divisor):
+    total = []
+    
+    for o in numbers:
+        if o % divisor == 0:
+            total.append(o)
+    return total
+
+4)
+def square_sum(numbers):
+    tttl = 0
+    
+    for i in numbers:
+        tttl += i**2
+        
+    return tttl
+
+5)
+def positive_sum(arr):
+    sum1 = 0
+    for i in arr:
+        if i > 0:
+           sum1 += i
+    return sum1
